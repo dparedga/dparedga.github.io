@@ -2,6 +2,7 @@
 layout: page
 title: Useful resources for data visualization
 subtitle: Python and R Graph Gallery
+cover-img: /assets/img/data_vis.png
 ---
 
 Ever wonder how to build nice charts using python or R tools. Here you can find useful resources you need to know: 
